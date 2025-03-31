@@ -4,6 +4,8 @@
 
 ## 👨‍💻 About Me:
 
+### I'm a blockchain expert with over 10 years of experience designing and developing decentralized applications (dApps), smart contracts, and blockchain integrations. I specialize in Ethereum, Solidity, Hyperledger, and Layer-2 solutions, with extensive experience in building DeFi systems, designing tokenomics, and improving blockchain scalability and security.<br> In addition to my blockchain expertise, I'm proficient in Python and skilled in both front-end and back-end development, enabling me to deliver seamless, full-stack solutions.
+
 ## 🔥Statistics
 
 <div align="center">
